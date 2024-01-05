@@ -56,4 +56,52 @@ Developed a project related to analyzing and exploring data related to matches, 
 # NBA_Stats_Scraping_Analysis
 
 **Description**
-Conducted web scraping to collect NBA statistics, followed by analysis and visualization
+Conducted web scraping to collect NBA statistics, followed by analysis and visualization for gaining insights into player performance.
+
+**Files**
+- `nba_stats_scraping_analysis.ipynb`: Jupyter Notebook with the code.
+- `nba_player_stats.csv`: Dataset containing scraped NBA player statistics.
+
+---
+
+# SmsSpamClassifier
+
+**Description**
+Developed a spam classifier for SMS using Natural Language Processing (NLP) and Machine Learning (ML) techniques.
+
+**Files**
+- `sms_spam_classifier.ipynb`: Jupyter Notebook with the code.
+- `vectorizer.pkl` and `model.pkl`: Pickle files containing the trained TF-IDF vectorizer and the machine learning model.
+
+---
+
+# Stock_Pred with ML
+
+**Description**
+Utilized machine learning algorithms for stock price prediction, analyzing historical stock data to make predictions.
+
+**Files**
+- `stock_price_prediction.ipynb`: Jupyter Notebook with the code.
+- `stock_data.csv`: Dataset used for training and testing.
+
+---
+
+# Weather Prediction with ML
+
+**Description**
+Implemented machine learning for weather prediction, considering various meteorological factors for accurate forecasting.
+
+**Files**
+- `weather_prediction.ipynb`: Jupyter Notebook with the code.
+- `weather_data.csv`: Dataset used for training and testing.
+
+---
+
+# Football_Matches_Pred_ML
+
+**Description**
+Project focused on predicting football match outcomes using machine learning models, analyzing historical match data.
+
+**Files**
+- `football_matches_pred_ml.ipynb`: Jupyter Notebook with the code.
+- `football_match_data.csv`: Dataset used for training and testing.
