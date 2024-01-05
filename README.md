@@ -1,127 +1,59 @@
 # CarPricePredictor
 
-## Description
-Developed a machine learning model for predicting car prices.
+**Description**
+Developed a machine learning model using regression algorithms to predict car prices based on various features such as model, brand, year, and mileage.
 
-## Date Uploaded
-2 weeks ago
-
-## Files
-Check the uploaded files for source code, datasets, and any additional resources.
+**Files**
+- `car_price_prediction.ipynb`: Jupyter Notebook containing the code.
+- `dataset.csv`: Dataset used for training and testing.
 
 ---
 
 # Economic Data Analysis Project
 
-## Description
-Conducted an analysis of economic data.
+**Description**
+Conducted a comprehensive analysis of economic data, exploring various indicators and trends to gain insights into economic patterns.
 
-## Date Uploaded
-2 weeks ago
-
-## Files
-Explore the uploaded files for source code, datasets, and supplementary materials.
+**Files**
+- `economic_data_analysis.ipynb`: Jupyter Notebook with the code.
+- `economic_data.csv`: Dataset used for analysis.
 
 ---
 
 # K_MeansClustering
 
-## Description
-Implemented K-Means clustering algorithm for data analysis.
+**Description**
+Implemented the K-Means clustering algorithm to group data points based on similarity, providing a structured approach to data analysis.
 
-## Date Uploaded
-2 weeks ago
-
-## Files
-Refer to the uploaded files for the code, datasets, and any relevant documentation.
+**Files**
+- `k_means_clustering.ipynb`: Jupyter Notebook with the code.
+- `data.csv`: Dataset used for clustering.
 
 ---
 
-# MapUp-Data-Assesment
+# MapUp-Data-Assessment
 
-## Description
-Project related to MapUp data assessment.
+**Description**
+Project related to MapUp data assessment, involving the exploration and analysis of geographical data.
 
-## Date Uploaded
-2 weeks ago
-
-## Files
-Check the uploaded files for source code, datasets, and any additional resources.
+**Files**
+- `mapup_data_assessment.ipynb`: Jupyter Notebook with the code.
+- `geographical_data.csv`: Dataset used for assessment.
 
 ---
 
 # Matches_Project
 
-## Description
-Project related to matches; explore the uploaded files for more details.
+**Description**
+Developed a project related to analyzing and exploring data related to matches, providing insights and patterns.
 
-## Date Uploaded
-2 weeks ago
-
-## Files
-Refer to the uploaded files for the source code, datasets, and any supporting materials.
+**Files**
+- `matches_project.ipynb`: Jupyter Notebook with the code.
+- `matches_data.csv`: Dataset used for analysis.
 
 ---
 
-# NBA_Stats_scraping_analysis
+# NBA_Stats_Scraping_Analysis
 
-## Description
-Conducted scraping and analysis of NBA statistics.
-
-## Date Uploaded
-2 weeks ago
-
-## Files
-Check the uploaded files for source code, datasets, and any additional resources.
-
----
-
-# SmsSpamClassifier
-
-## Description
-Developed a spam classifier for SMS using NLP and ML.
-
-## Date Uploaded
-1 minute ago
-
-## Files
-Explore the uploaded files for source code, datasets, and any supplementary materials.
-
----
-
-# Stock_Pred with ML
-
-## Description
-Applied machine learning for stock price prediction.
-
-## Date Uploaded
-2 weeks ago
-
-## Files
-Refer to the uploaded files for source code, datasets, and any relevant documentation.
-
----
-
-# Weather Prediction with ML
-
-## Description
-Utilized machine learning for weather prediction.
-
-## Date Uploaded
-2 weeks ago
-
-## Files
-Check the uploaded files for source code, datasets, and any additional resources.
-
----
-
-# football_matches_pred_ML
-
-## Description
-Project related to predicting football matches using machine learning.
-
-## Date Uploaded
-2 weeks ago
-
-## Files
-Refer to the uploaded files for the source code, datasets, and any supporting materials.
+**Description**
+Conducted web scraping to collect NBA statistics, followed by analysis and visualization
